@@ -1,0 +1,35 @@
+Input File: /Users/root_master/Desktop/gcode_simple/test.svg
+Output File: /Users/root_master/Desktop/gcode_simple/gcode_output/test.gcode
+Log File: /Users/root_master/Desktop/gcode_simple/log/test.log
+
+wdth: 1700.8
+hght: 1133.9
+scale: 0.1175917215428034
+x%: 0.1175917215428034
+y%: 0.2645735955551636
+--Found Elem: <Element '{http://www.w3.org/2000/svg}svg' at 0x109397830>
+  --No Name: svg
+--Found Elem: <Element '{http://www.w3.org/2000/svg}style' at 0x1093978d0>
+  --No Name: style
+--Found Elem: <Element '{http://www.w3.org/2000/svg}rect' at 0x109397920>
+  --Name: rect
+	Class : <class 'shapes.rect'>
+	Object: <Element '{http://www.w3.org/2000/svg}rect' at 0x109397920>
+	Attrs : [('x', '238.8'), ('y', '181.8'), ('class', 'st0'), ('width', '314.6'), ('height', '314.6')]
+	Transform: None
+	d: M 238.8 181.8 l 314.6 0 l 0 314.6 l -314.6 0 Z
+	m: None
+	d is GOOD!
+	Points: <generator object point_generator at 0x109248a50>
+	  pt: (28.080903104421452, 278.62182502351834)
+	    --Point printed
+	  pt: (28.080903104421452, 278.62182502351834)
+	    --Point printed
+	  pt: (65.0752587017874, 278.62182502351834)
+	    --Point printed
+	  pt: (65.0752587017874, 241.6274694261524)
+	    --Point printed
+	  pt: (28.08090310442146, 241.6274694261524)
+	    --Point printed
+	  pt: (28.080903104421452, 278.62182502351834)
+	    --Point printed
